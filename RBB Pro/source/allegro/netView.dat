@@ -1,0 +1,36 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
+J!C:/Awork/orCAD/RBB Pro/allegro/rbbb pro.brd!Sat Feb  7 16:09:03 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!RBBB PRO!10.400000 mil!2!UP TO DATE!
+S!D3!@\rbbb pro\.schematic1(sch_1):d3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D2!@\rbbb pro\.schematic1(sch_1):d2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RST!@\rbbb pro\.schematic1(sch_1):rst!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!EXT_RESET!@\rbbb pro\.schematic1(sch_1):ext_reset!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TX!@\rbbb pro\.schematic1(sch_1):tx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RX!@\rbbb pro\.schematic1(sch_1):rx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!+JACK!@\rbbb pro\.schematic1(sch_1):\+jack\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0.381 MM!!!!!!
+S!N04232!@\rbbb pro\.schematic1(sch_1):n04232!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N03977!@\rbbb pro\.schematic1(sch_1):n03977!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N04005!@\rbbb pro\.schematic1(sch_1):n04005!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N03852!@\rbbb pro\.schematic1(sch_1):n03852!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01875!@\rbbb pro\.schematic1(sch_1):n01875!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01778!@\rbbb pro\.schematic1(sch_1):n01778!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01774!@\rbbb pro\.schematic1(sch_1):n01774!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!+5.0V!@\rbbb pro\.schematic1(sch_1):\+5.0v\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0.381 MM!!!!!!
+S!GND!@\rbbb pro\.schematic1(sch_1):gnd!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0.381 MM!!!!!!
+S!A0!@\rbbb pro\.schematic1(sch_1):a0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D13!@\rbbb pro\.schematic1(sch_1):d13!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D12!@\rbbb pro\.schematic1(sch_1):d12!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D11!@\rbbb pro\.schematic1(sch_1):d11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D10!@\rbbb pro\.schematic1(sch_1):d10!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D9!@\rbbb pro\.schematic1(sch_1):d9!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D8!@\rbbb pro\.schematic1(sch_1):d8!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!XTAL_2_IN!@\rbbb pro\.schematic1(sch_1):xtal_2_in!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!XTAL_1_OUT!@\rbbb pro\.schematic1(sch_1):xtal_1_out!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!AREF!@\rbbb pro\.schematic1(sch_1):aref!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A2!@\rbbb pro\.schematic1(sch_1):a2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A3!@\rbbb pro\.schematic1(sch_1):a3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A4!@\rbbb pro\.schematic1(sch_1):a4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A1!@\rbbb pro\.schematic1(sch_1):a1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A5!@\rbbb pro\.schematic1(sch_1):a5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A6!@\rbbb pro\.schematic1(sch_1):a6!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!A7!@\rbbb pro\.schematic1(sch_1):a7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!D4!@\rbbb pro\.schematic1(sch_1):d4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

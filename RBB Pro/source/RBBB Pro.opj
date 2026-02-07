@@ -1,0 +1,273 @@
+(ExpressProject "RBBB Pro"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S010 (4374085)  [11/23/2025]-[01/21/26]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\cadence\orcadx_25.1\tools\capture\library\learnpcbdesignorcad.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\rbbb pro.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "FALSE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "FALSE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "FALSE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "FALSE")
+    (DRC_Check_Missing_Pin_Numbers_Online "FALSE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "C:\AWORK\ORCAD\RBB PRO\RBBB PRO.DRC")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\AWORK\ORCAD\RBB PRO\RBBB PRO.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\tDigi-Key Part Number}")
+    (BOM_Header "Item\tQuantity\tReference\Digi-Key Part Number")
+    (BOM_Include_File "C:\AWORK\ORCAD\RBB PRO\RBBB PRO.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\rbbb pro.brd")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Layout"
+    (File ".\allegro\rbbb pro.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rbbb pro.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\rbbb pro.drc"
+      (Type "Report"))
+    (File ".\rbbb pro.bom"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (Sort User)
+    (File ".\RBBB PRO_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\RBBB PRO_OUTPUT\BOM.SCH.CSV")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "C:\Awork\orCAD\RBB Pro\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "C:\Awork\orCAD\RBB Pro\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\Awork\orCAD\RBB Pro\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "C:\Awork\orCAD\RBB Pro\allegro\genfeed.log")))
+  (MPSSessionName "jorge")
+  (PartMRUSelector
+    (MyTitleBlock
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    (+5.0V
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 0.1uF 50V X7R 0805"
+      (FullPartName "CAP CER 0.1uF 50V X7R 0805.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("RESONATOR 16.0MHZ 22PF SMD"
+      (FullPartName "RESONATOR 16.0MHZ 22PF SMD.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("SWITCH TACTILE SPST-NO 0.05A 24"
+      (FullPartName "SWITCH TACTILE SPST-NO 0.05A 24.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("R 10K OHM 1% 1/8W 0603"
+      (FullPartName "R 10K OHM 1% 1/8W 0603.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("IC MCU 8BIT 32KB FLASH 32TQFP"
+      (FullPartName "IC MCU 8BIT 32KB FLASH 32TQFP.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 4POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 4POS 2.54MM.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 9POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 9POS 2.54MM.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 16POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 16POS 2.54MM.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER R/A 6POS 2.54MM"
+      (FullPartName "CONN HEADER R/A 6POS 2.54MM.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN HEADER VERT 2POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 2POS 2.54MM.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("LED GREEN 0805 SMD"
+      (FullPartName "LED GREEN 0805 SMD.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("R 1K OHM 1% 1/8W 0603"
+      (FullPartName "R 1K OHM 1% 1/8W 0603.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("IC REG LINEAR 5V 300MA SOT23-5"
+      (FullPartName "IC REG LINEAR 5V 300MA SOT23-5.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 1uF 25V X7R 0805"
+      (FullPartName "CAP CER 1uF 25V X7R 0805.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("DIODE 100V 300MA SOD12"
+      (FullPartName "DIODE 100V 300MA SOD12.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0"))
+    ("CONN POWER JACK 2.1MM ID SOLDER"
+      (FullPartName "CONN POWER JACK 2.1MM ID SOLDER.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\LEARNPCBDESIGNORCAD.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Awork\orCAD\RBB Pro\rbbb pro.dsn")
+      (Path "Design Resources" "C:\Awork\orCAD\RBB Pro\rbbb pro.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\cadence\orcadx_25.1\tools\capture\library\learnpcbdesignorcad.olb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources" "Library"
+         "c:\cadence\orcadx_25.1\tools\capture\library\learnpcbdesignorcad.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 391 0 688"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 2123 24 729")
+        (Scroll "-577 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "C:\AWORK\ORCAD\RBB PRO\RBBB PRO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (ISPCBBASICLICENSE "false"))

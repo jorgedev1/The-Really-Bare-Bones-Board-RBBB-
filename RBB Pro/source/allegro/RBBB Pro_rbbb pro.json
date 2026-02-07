@@ -1,0 +1,33 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "GND",
+			"C_PATH" : "@\\rbbb pro\\.schematic1(sch_1):gnd",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "0.381 MM"
+		},
+		{
+			"Name" : "+5.0V",
+			"C_PATH" : "@\\rbbb pro\\.schematic1(sch_1):\\+5.0v\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "0.381 MM"
+		},
+		{
+			"Name" : "+JACK",
+			"C_PATH" : "@\\rbbb pro\\.schematic1(sch_1):\\+jack\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "0.381 MM"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

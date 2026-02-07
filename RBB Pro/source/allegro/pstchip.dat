@@ -1,0 +1,481 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 25.1.0 d001Feb-07-2026 at 16:09:11}
+primitive 'CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 1uF 25V X7R 0805';
+    JEDEC_TYPE='CAPC2012X140N';
+    VALUE='1 uF';
+  end_body;
+end_primitive;
+primitive 'CAP CER 0.1UF 50V X7R 0805_CAP_0805C_100 NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 0.1uF 50V X7R 0805';
+    JEDEC_TYPE='CAP_0805C';
+    VALUE='100 nF';
+  end_body;
+end_primitive;
+primitive 'DIODE 100V 300MA SOD12_SOD123_DIODE';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE 100V 300MA SOD12';
+    JEDEC_TYPE='SOD123';
+    VALUE='DIODE';
+  end_body;
+end_primitive;
+primitive 'LED GREEN 0805 SMD_LED0805N_CML_LED GREEN';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED GREEN 0805 SMD';
+    JEDEC_TYPE='LED0805N_CML';
+    VALUE='LED GREEN';
+  end_body;
+end_primitive;
+primitive 'CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN HEADER VERT 2POS 2.54MM';
+    JEDEC_TYPE='BLKCON100VHTM1SQSW1002';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN HEADER R/A 6POS 2.54MM';
+    JEDEC_TYPE='blkcon100vhtm1sqsw1006';
+    VALUE='CON6 R/A';
+  end_body;
+end_primitive;
+primitive 'CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PJ-003A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN POWER JACK 2.1MM ID SOLDER';
+    JEDEC_TYPE='CUI_PJ-003A';
+    VALUE='PJ-003A';
+  end_body;
+end_primitive;
+primitive 'CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN HEADER VERT 9POS 2.54MM';
+    JEDEC_TYPE='BLKCON100VHTM1SQSW1009';
+    VALUE='CON9 R/A';
+  end_body;
+end_primitive;
+primitive 'CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN HEADER VERT 16POS 2.54MM';
+    JEDEC_TYPE='BLKCON100VHTM1SQSW10016';
+    VALUE='CON16';
+  end_body;
+end_primitive;
+primitive 'CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN HEADER VERT 4POS 2.54MM';
+    JEDEC_TYPE='BLKCON100VHTM1SQSW1004';
+    VALUE='CON4 R/A';
+  end_body;
+end_primitive;
+primitive 'R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R 1K OHM 1% 1/8W 0603';
+    JEDEC_TYPE='STA_RNCP0603';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R 10K OHM 1% 1/8W 0603';
+    JEDEC_TYPE='STA_RNCP0603';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SWITCH TACTILE SPST-NO 0.05A 24';
+    JEDEC_TYPE='SW4_FSM-5P23';
+    VALUE='SWITCH SPST-NO';
+  end_body;
+end_primitive;
+primitive 'IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO';
+  pin
+    'VIN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VSS (GND)':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '\S\H\D\N\':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'VOUT':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IC REG LINEAR 5V 300MA SOT23-5';
+    JEDEC_TYPE='SOT-23-5_MC';
+    VALUE='LDO';
+  end_body;
+end_primitive;
+primitive 'IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB';
+  pin
+    'PD3 (INT1)':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD4 (XCK / T0)':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND_1':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VCC_1':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'GND_2':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'VCC_2':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+    'PB6 (XTAL1 / TOSC1)':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB7 (XTAL2 / TOSC2)':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD5 (T1)':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD6 (AIN0)':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD7 (AIN1)':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB0 (ICP)':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB1 (OC1A)':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB2 (SS / OC1B)':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB3 (MOSI / OC2)':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB4 (MISO)':
+      PIN_NUMBER='(16)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PB5 (SCK)':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'AVCC':
+      PIN_NUMBER='(18)';
+      PINUSE='POWER';
+    'ADC6':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    'AREF':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(21)';
+      PINUSE='POWER';
+    'ADC7':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    'PC0 (ADC0)':
+      PIN_NUMBER='(23)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC1 (ADC1)':
+      PIN_NUMBER='(24)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC2 (ADC2)':
+      PIN_NUMBER='(25)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC3 (ADC3)':
+      PIN_NUMBER='(26)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC4 (ADC4 / SDA)':
+      PIN_NUMBER='(27)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC5 (ADC5 / SCL)':
+      PIN_NUMBER='(28)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PC6 (R\E\S\E\T\)':
+      PIN_NUMBER='(29)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD0 (RXD)':
+      PIN_NUMBER='(30)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD1 (TXD)':
+      PIN_NUMBER='(31)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'PD2 (INT0)':
+      PIN_NUMBER='(32)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='IC MCU 8BIT 32KB FLASH 32TQFP';
+    JEDEC_TYPE='MA';
+    VALUE='IC MCU 32KB';
+  end_body;
+end_primitive;
+primitive 'RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ';
+  pin
+    'INPUT':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'OUTPUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESONATOR 16.0MHZ 22PF SMD';
+    JEDEC_TYPE='3-SMD';
+    VALUE='16.00 MHz';
+  end_body;
+end_primitive;
+END.
